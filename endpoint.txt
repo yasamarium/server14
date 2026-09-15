@@ -1,1 +1,1 @@
-https://authentication-guided-surveillance-pdt.trycloudflare.com
+https://api.trycloudflare.com
